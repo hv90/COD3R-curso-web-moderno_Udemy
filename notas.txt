@@ -1,0 +1,7 @@
+arrays
+.slice() //pega parte do array
+.splice() //remover, adicionar ou remover e depois adicionar
+.unshift() //adiciona na 1a posição
+.shift() //remove da 1a posição
+.push() //adiciona na última posição
+.pop() //remove da última posição
