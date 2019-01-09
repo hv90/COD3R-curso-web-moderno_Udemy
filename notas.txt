@@ -1,0 +1,6 @@
+npm i    //instala pacotes na pasta node_modules
+npm i lodash
+.gitignore -> node_modules // ignorará a pasta node_modules durante o git push 
+npm i -g nodemon //'rs' no console restart o nodemon
+npm init //cria o pacote package.json
+npm i --save <biblioteca> //registra no package.json as dependências do projeto

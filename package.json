@@ -1,0 +1,22 @@
+{
+  "name": "cod3r-curso-web-moderno_udemy",
+  "version": "1.0.0",
+  "description": "curso web minitrada\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[D\u001b[D\u001b[D\u001b[Ds\u001b[C\u001b[C\u001b[trado online por COD3R via Udemy",
+  "main": "desafios_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hv90/COD3R-curso-web-moderno_Udemy.git"
+  },
+  "author": "Hugo Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hv90/COD3R-curso-web-moderno_Udemy/issues"
+  },
+  "homepage": "https://github.com/hv90/COD3R-curso-web-moderno_Udemy#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
