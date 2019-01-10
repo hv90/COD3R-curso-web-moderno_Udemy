@@ -1,0 +1,19 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "projeto de conclusao do modulo node do curso web",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hv90//COD3R-curso-web-moderno_Udemy/\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[\u001b[C\u001b/COD3R-curso-web-moderno_Udemy"
+  },
+  "author": "Hugo Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
