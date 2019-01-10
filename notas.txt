@@ -1,6 +1,11 @@
-npm i    //instala pacotes na pasta node_modules
+npm i    //instala pacotes na pasta node_modules. Ao clonar uma pasta via git,
+        //procura no package.json as dependencias a serem instaladas.
 npm i lodash
 .gitignore -> node_modules // ignorará a pasta node_modules durante o git push 
 npm i -g nodemon //'rs' no console restart o nodemon
 npm init //cria o pacote package.json
 npm i --save <biblioteca> //registra no package.json as dependências do projeto
+npm run dev //npm run executa um comando descrito no package.json que o node não
+            //guarda como pré-definido
+npm start  //executa o comando descrito em start do package.json
+          //por padrão procura o arquivo do campo "main" no package.json
